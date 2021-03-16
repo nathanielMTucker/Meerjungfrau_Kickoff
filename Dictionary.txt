@@ -1,0 +1,24 @@
+1)Raesfeld 
+2)Flughafen - airport
+3)Berlin 
+4)Bratwurst 
+5)Hauptstrasse - main road
+6)Brot - bread
+7)Gauss 
+8)Klimaanlage - air conditioning
+9)Rammstein 
+11)Musik - music
+10)Porsche 
+11)BMW 
+12)Biergarten - beer garden
+13)Ratskeller 
+14)Dirndel 
+15)Lederhose 
+16)Audi 
+17)Schloss - lock
+18)Munich 
+19)wetbewerbsfaehig - competitive
+20)Mehlhase  - flour bunny
+21)Gebaeck - pasteries
+22)Baeckerei - bakery
+23)Hund - dog
