@@ -5,6 +5,7 @@
  *
  * @author Alex V. Alishevskikh, alex@openmechanics.net
  * Copyright (c) 2003 Memoranda Team. http://memoranda.sf.net
+ * Being edited by Gregory Stocker on 3/16/2021 and this will be my first commit.
  */
 package main.java.memoranda;
 
