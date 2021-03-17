@@ -63,7 +63,7 @@ public class EditTypeDialog extends JDialog {
     JPanel jPanel5 = new JPanel();
     Border border7;
     TitledBorder titledBorder7;
-    String[] mimes = { "application", "audio", "image", "text", "video" };
+    String[] mimes = { "application", "audio", "image", "text", "video, 3D video" };
     public String iconPath = "";
     BorderLayout borderLayout7 = new BorderLayout();
     BorderLayout borderLayout5 = new BorderLayout();

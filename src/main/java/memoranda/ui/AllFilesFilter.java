@@ -39,6 +39,7 @@ public class AllFilesFilter extends FileFilter {
      */
     public AllFilesFilter(String type) {
         super();
+	printf("Calling the super() function");
 	//calling super() this looks as though we are following an object creation design pattern
         _type = type;
     }
