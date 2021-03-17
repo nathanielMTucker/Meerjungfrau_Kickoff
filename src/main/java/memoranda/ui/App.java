@@ -155,7 +155,7 @@ public class App {
 		l.setSize(400, 300);
 		l.setIcon(spl);
 		splash.getContentPane().add(l);
-		splash.setSize(400, 300);
+		splash.setSize(200, 300);
 		Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
 		splash.setLocation(
 			(screenSize.width - 400) / 2,
