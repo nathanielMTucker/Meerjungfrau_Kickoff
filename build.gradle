@@ -1,4 +1,4 @@
-apply plugin: 'application'
+apply plugin: 'application' //application just says that we want java functionality.
 
 mainClassName = 'main/java/memoranda/Start'
 
@@ -14,3 +14,15 @@ dependencies {
   compile 'net.sourceforge.nekohtml:nekohtml:1.9.+'
 }
 
+
+
+//new Separate task added by me
+//4. Creating a Separate Task
+task fatJar(type: Jar) {
+  manifest {
+    attributes 'Main-Class': "$mainClassName"
+  }
+  baseName = 'gstocker_memoranda.jar'
+  from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+  with jar
+}
